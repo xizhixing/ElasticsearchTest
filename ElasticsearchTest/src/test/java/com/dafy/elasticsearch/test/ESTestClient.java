@@ -55,6 +55,7 @@ public class ESTestClient {
 	@Test
 	public void addBorrowIntentExt(){
 		System.out.println("dd");
+		System.out.println("ee");
 	}
 	
 	/**

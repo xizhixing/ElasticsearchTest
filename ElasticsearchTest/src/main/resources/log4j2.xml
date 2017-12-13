@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>    
 <configuration status="warn">  
-
+<!-- 日志路径有问题，具体路径写法待定 -->
 	<Properties>
         <Property name="log_path">${catalina.base}/logs</Property>
     </Properties>
