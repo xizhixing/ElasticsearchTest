@@ -2,7 +2,7 @@
 <configuration status="warn">  
 
 	<Properties>
-        <Property name="log_path">${catalina.home}/logs</Property>
+        <Property name="log_path">${catalina.base}/logs</Property>
     </Properties>
 <!--     先定义所有的appender -->  
     <appenders>  
